@@ -1,0 +1,24 @@
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.exe.config
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.exe
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.pdb
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.xml
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Calculadora.resources
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Facturación.resources
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Resources.resources
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.vbproj.GenerateResource.Cache
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.exe
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.xml
+F:\Proyecto_Misael-Alexander\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.exe.config
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.pdb
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\bin\Debug\Proyecto_Misael-Alexander.xml
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.vbproj.AssemblyReference.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Calculadora.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Facturación.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\WindowsApplication1.Resources.resources
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.vbproj.GenerateResource.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.vbproj.CoreCompileInputs.cache
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.exe
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.xml
+C:\Users\tiago\OneDrive\Área de Trabalho\Proyecto_Misael-Alexander 202020202\Proyecto_Misael-Alexander\obj\Debug\Proyecto_Misael-Alexander.pdb
