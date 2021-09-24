@@ -24,6 +24,7 @@ Partial Class Facturación
     Private Sub InitializeComponent()
         Me.Gbx_Datosclientes = New System.Windows.Forms.GroupBox()
         Me.Label18 = New System.Windows.Forms.Label()
+        Me.Btn_Limpardados = New System.Windows.Forms.Button()
         Me.Txt_nome = New System.Windows.Forms.TextBox()
         Me.Txt_Numero = New System.Windows.Forms.TextBox()
         Me.Cbo_TipoDocu = New System.Windows.Forms.ComboBox()
@@ -62,7 +63,6 @@ Partial Class Facturación
         Me.Label5 = New System.Windows.Forms.Label()
         Me.Label15 = New System.Windows.Forms.Label()
         Me.Label17 = New System.Windows.Forms.Label()
-        Me.Btn_Limpardados = New System.Windows.Forms.Button()
         Me.Gbx_Datosclientes.SuspendLayout()
         Me.GroupBox2.SuspendLayout()
         Me.GroupBox3.SuspendLayout()
@@ -98,6 +98,19 @@ Partial Class Facturación
         Me.Label18.Size = New System.Drawing.Size(68, 20)
         Me.Label18.TabIndex = 6
         Me.Label18.Text = "Número"
+        '
+        'Btn_Limpardados
+        '
+        Me.Btn_Limpardados.BackColor = System.Drawing.Color.DodgerBlue
+        Me.Btn_Limpardados.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.Btn_Limpardados.ForeColor = System.Drawing.Color.White
+        Me.Btn_Limpardados.Location = New System.Drawing.Point(427, 86)
+        Me.Btn_Limpardados.Margin = New System.Windows.Forms.Padding(4)
+        Me.Btn_Limpardados.Name = "Btn_Limpardados"
+        Me.Btn_Limpardados.Size = New System.Drawing.Size(139, 41)
+        Me.Btn_Limpardados.TabIndex = 5
+        Me.Btn_Limpardados.Text = "Limpar"
+        Me.Btn_Limpardados.UseVisualStyleBackColor = False
         '
         'Txt_nome
         '
@@ -195,7 +208,7 @@ Partial Class Facturación
         Me.Btn_Limpar.Name = "Btn_Limpar"
         Me.Btn_Limpar.Size = New System.Drawing.Size(109, 42)
         Me.Btn_Limpar.TabIndex = 8
-        Me.Btn_Limpar.Text = "Limpar"
+        Me.Btn_Limpar.Text = "Limpar123"
         Me.Btn_Limpar.UseVisualStyleBackColor = False
         '
         'Cbo_Serviço
@@ -565,19 +578,6 @@ Partial Class Facturación
         Me.Label17.TabIndex = 7
         Me.Label17.Text = "X"
         Me.Label17.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
-        '
-        'Btn_Limpardados
-        '
-        Me.Btn_Limpardados.BackColor = System.Drawing.Color.DodgerBlue
-        Me.Btn_Limpardados.Font = New System.Drawing.Font("Microsoft Sans Serif", 9.75!, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Btn_Limpardados.ForeColor = System.Drawing.Color.White
-        Me.Btn_Limpardados.Location = New System.Drawing.Point(427, 86)
-        Me.Btn_Limpardados.Margin = New System.Windows.Forms.Padding(4)
-        Me.Btn_Limpardados.Name = "Btn_Limpardados"
-        Me.Btn_Limpardados.Size = New System.Drawing.Size(139, 41)
-        Me.Btn_Limpardados.TabIndex = 5
-        Me.Btn_Limpardados.Text = "Limpar"
-        Me.Btn_Limpardados.UseVisualStyleBackColor = False
         '
         'Facturación
         '
